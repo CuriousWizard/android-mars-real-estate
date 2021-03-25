@@ -1,1 +1,3 @@
 /build
+/src/androidTest/java/com/curiouswizard/marsrealestate/ExampleInstrumentedTest.kt
+/src/test/java/com/curiouswizard/marsrealestate/ExampleUnitTest.kt
